@@ -1,1 +1,11 @@
+# macOS specific files
+.DS_Store
+
+# iterm2 files, except for your dynamic profile
+iterm2
+zsh/.config/iterm2
+!zsh/.config/iterm2/Library/AppSupport/iTerm2/DynamicProfiles/Obi Shawn Kenobi.json
+
+# A growing list of things not needed
 .trunk/
+zsh/.config/expressvpn
