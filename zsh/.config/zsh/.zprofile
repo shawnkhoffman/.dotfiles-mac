@@ -12,3 +12,5 @@ if [[ -z $DOTFILES ]]; then
 fi
 
 # STOW_FOLDERS=$STOW_FOLDERS DOTFILES=$DOTFILES $DOTFILES/install
+# Created by `pipx` on 2024-03-06 22:11:31
+export PATH="$PATH:/Users/shawnhoffman/.local/bin"
