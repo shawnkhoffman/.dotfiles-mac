@@ -9,3 +9,5 @@ zsh/.config/iterm2
 # A growing list of things not needed
 .trunk/
 zsh/.config/expressvpn
+gcloud
+neofetch
