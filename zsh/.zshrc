@@ -15,6 +15,3 @@ fi
 
 source "$(brew --prefix)/share/google-cloud-sdk/path.zsh.inc"
 source "$(brew --prefix)/share/google-cloud-sdk/completion.zsh.inc"
-
-export PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:$PATH"
-
